@@ -98,7 +98,7 @@ def wifi_pl__d_more_5(f: float, d: float, dbp: float, x: float) -> float:
 
 
 Pt = 43
-d = [0.2, 0.3, 0.27]
+d = [0.35, 0.32, 0.3]
 g2_f = 1800
 g3_f = 1800
 g4_f = 2.14
